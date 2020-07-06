@@ -1,7 +1,9 @@
 name = "ProximalBundleMethod"
-uuid = "af942322-22c6-4ac7-96a9-5c7fdb47e3b5"
+uuid = "0e072efa-9383-42bd-ba7f-e1e5f37eaa4b"
 authors = ["Ngoc Hoang Anh Mai <maihoanganh6@gmail.com>"]
 version = "0.1.0"
 
 [deps]
-Example = "7876af07-990d-54b4-ab0e-23690620f79a"
+Compat = "34da2185-b29b-5c13-b0c7-acf172513d20"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+OSQP = "ab2f91bb-94b4-55e3-9ba0-7f65df51de79"
