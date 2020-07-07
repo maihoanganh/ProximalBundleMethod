@@ -2,7 +2,7 @@
 Renew Julia codes from https://github.com/kibaekkim/BundleMethod.jl
 
 # Usage
-See test_PB.ipynb
+See test/runtests.jl
 
 # References
 
